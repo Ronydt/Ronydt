@@ -1,4 +1,4 @@
-<h2 align="left">Fala aí, tudo bem? Sou o Rony... Vem conhecer meu trabalho 🔥</h2>
+<h2 align="left">Eae, tudo bem? Sou o Rony, Dev Fullstack e Mobile</h2>
 
 ###
 
